@@ -1,7 +1,5 @@
 package leetcode;
 
-import leetcode.Maximum_Depth_Binary_Tree.TreeNode;
-
 public class Invert_Binary_Tree {
 	
 	public class TreeNode {
